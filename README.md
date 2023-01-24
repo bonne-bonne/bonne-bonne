@@ -1,8 +1,21 @@
 
 ![Artboard 1](https://user-images.githubusercontent.com/111819881/214296101-f95c4810-8621-41f9-b52c-b87cc95659ee.png)
 
-- 🌱 I’m currently learning ...
+<div align="center"><h2> Back in 2022...</h2></div>
+<p align="center">My coding journey began in 2022. I attended Mission Ready and set off on my adventure to full-stack development.</p>
+<div align="center"> <img src="https://github.com/bonne-bonne/bonne-bonne/blob/main/going_on_an_adventure.gif" width="300" /></div>
 
+<div align="center"><h2> Languages and Frameworks I have experience with</h2></div>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MySql</li>
+  <li>MongoDB</li>
+</ul>
 
 <!--
 **bonne-bonne/bonne-bonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
