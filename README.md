@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![Artboard 1](https://user-images.githubusercontent.com/111819881/214296101-f95c4810-8621-41f9-b52c-b87cc95659ee.png)
+
+- 🌱 I’m currently learning ...
+
 
 <!--
 **bonne-bonne/bonne-bonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+≈
