@@ -19,9 +19,9 @@
 
 <div align="center"><h2>--- Projects ---</h2></div>
 <div style='display: "flex"; flex-direction: "row"; gap: "15"; justify-content: "space-between"; width:"100%"; background-color: "#000000" ' align="center">
- <img class="img" src="https://github.com/bonne-bonne/bonne-bonne/blob/main/HK_AdobeExpress.gif" width="250" />
- <img class="img" src="https://github.com/bonne-bonne/bonne-bonne/blob/main/Florence.gif" width="300" />
- <img class="img" src="https://github.com/bonne-bonne/bonne-bonne/blob/main/Mx_AdobeExpress.gif" width="270" />
+ <img class="img" src="https://github.com/bonne-bonne/bonne-bonne/blob/main/HK_AdobeExpress.gif"  height="240"/>
+ <img class="img" src="https://github.com/bonne-bonne/bonne-bonne/blob/main/Florence.gif" height="240" />
+ <img class="img" src="https://github.com/bonne-bonne/bonne-bonne/blob/main/Mx_AdobeExpress.gif" height="240" />
 </div>
 
 <!--
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-≈
+
