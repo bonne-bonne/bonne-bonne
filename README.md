@@ -2,8 +2,9 @@
 ![Artboard 1](https://user-images.githubusercontent.com/111819881/214296101-f95c4810-8621-41f9-b52c-b87cc95659ee.png)
 
 <br />
-<p align="center">- 👩🏻 <b>Pronouns:</b> She/Her</p>
-<p align="center">- ⚡ <b>Fun fact:</b> I'm an avid lover or board-games</p>
+<p align="center">👩🏻 <b>Pronouns:</b> She/Her</p>
+<p align="center">🎲 <b>Fun fact:</b> I'm an avid lover of board-games and sketching</p>
+<p align="center">🏛 <b>Fun fact #2:</b> I used to teach Spatial and Product Design</p>
 <br/>
 
 <div align="center"><h2> Back in 2022...</h2></div>
